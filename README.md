@@ -1,5 +1,5 @@
-# small-blog
-Small Blog Programmed By PHP OOP to help newbies to learn Object Orianted Structure 
+# Small Blog
+Small Blog (Minimum Blog Script) Programmed By PHP OOP to help newbies to learn Object Orianted Structure 
 The Project Containing This Modules (users, categories, articles)
 1. Classes for users
   - Register
